@@ -26,6 +26,7 @@ git clone https://github.com/NullBrunk/PHPTop
 cd PHPTop
 mv * ..
 cd .. && rm -r PHPTop
+chmod 777 assets/scripts/cpu.txt assets/scripts/cpuusage.sh
 ```
 
 Start the HTTP and the PHP service, and go to 127.0.0.1 
