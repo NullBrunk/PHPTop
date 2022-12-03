@@ -6,7 +6,7 @@
 Cards   
 - Display OS Name and Kernel version
 - Display RAM usage every 2 seconds
-- Display disk usage on total disk
+- Display disk usage and total disk space
 - Display the current uptime
 
 Graph    
