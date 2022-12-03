@@ -1,8 +1,5 @@
 # PHPTop
-A simple PHP monitor 
-
-![image](https://user-images.githubusercontent.com/106782577/205441672-b3a40799-b643-4216-8311-5e11ed550054.png)
-
+![image](https://user-images.githubusercontent.com/106782577/205441998-bc2ba2ee-da15-4c62-82a5-8228cc5cb0a5.png)
 
 ## Features 
 
