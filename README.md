@@ -15,7 +15,7 @@ A simple monitor written un PHP
 
 </div>
 
-## Features 
+# Features 
 
 Cards   
 - Display OS Name and Kernel version
