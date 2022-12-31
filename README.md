@@ -13,7 +13,7 @@ A simple monitor written un PHP
 ![image](https://user-images.githubusercontent.com/106782577/210119720-9e506e44-7a26-46b3-825e-d7d507aa8f57.png)
 
 
-</br>
+</div>
 
 ## Features 
 
