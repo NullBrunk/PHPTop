@@ -10,8 +10,8 @@ A simple monitor written un PHP
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/PHPTop?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/NullBrunk/PHPTop?style=for-the-badge)
 
+![image](https://user-images.githubusercontent.com/106782577/210119720-9e506e44-7a26-46b3-825e-d7d507aa8f57.png)
 
-![image](https://user-images.githubusercontent.com/106782577/205441998-bc2ba2ee-da15-4c62-82a5-8228cc5cb0a5.png)
 
 </br>
 ## Features 
