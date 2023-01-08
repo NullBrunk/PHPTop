@@ -2,7 +2,7 @@
 
 # PHPTop
 
-A simple monitor written un PHP 
+A simple monitor written in PHP 
 
 <br>
 
